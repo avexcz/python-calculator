@@ -4,8 +4,8 @@ Welcome to the basic python calculator repository! It starts from beginner level
 
 This repository demonstrates how to build calculators using Python across different levels:
 
-Beginner → Command-line calculator
-Intermediate → GUI-based calculator
+Beginner → Command-line calculator <br>
+Intermediate → GUI-based calculator <br>
 Advanced → Scientific and web-based calculator
 
 The goal is to strengthen core programming concepts, problem-solving, and application development skills.
