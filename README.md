@@ -32,7 +32,7 @@ https://github.com/git-guides/install-git
 step-2: clone in CLI <br>
 
 ```bash
-git clone https://github.com/AM5HOO/python-calculator.git
+git clone https://github.com/avexcz/python-calculator.git
 ```
 
 step-3: change directory
